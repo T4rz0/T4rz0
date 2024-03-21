@@ -2,7 +2,7 @@
 Welcome to my profile</h1>
 <h2>My name is Lucas Ferreira and my nickname is "T4rz0"!</h2>
 
-I am a Brazilian ![43751](https://github.com/T4rz0/T4rz0/assets/92960721/5fd038b6-3b0e-4511-b3ac-964ec229ac15)
+I am a Brazilian 🇧🇷
 
 
 🎓 I am a student of Information Technology (IT) in Senac Londrina.
