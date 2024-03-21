@@ -1,3 +1,8 @@
-<h1>Hello Welcome to my profile</h1>
+<h1>Olá!! 
+Bem vindo ao meu perfil</h1>
 
-I am a student in Senac Londrina of Information technology (IT)
+Sou um estudante de Tecnologia da Informação (TI) no Senac Londrina.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
