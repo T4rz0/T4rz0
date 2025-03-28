@@ -13,8 +13,7 @@ and
 
 I can work with:
 <br>
-<img loading="lazy" src="![image](https://github.com/user-attachments/assets/aa5c54c1-3842-4f2f-b718-9e30cc0a7746)
-" width="40" height="40"/>
+<img loading="lazy" src="https://github.com/user-attachments/assets/aa5c54c1-3842-4f2f-b718-9e30cc0a7746" width="40" height="40"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T4rz0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
