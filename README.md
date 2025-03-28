@@ -12,6 +12,7 @@ and
 🎓 Studing Program Engineering in Unisenai Londrina
 
 I can work with:
+<br>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T4rz0&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
