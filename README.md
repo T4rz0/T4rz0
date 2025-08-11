@@ -5,11 +5,11 @@ Welcome to my profile</h1>
 I am a Brazilian 🇧🇷
 
 
-🎓 I am Graduated in Information Technology (IT) in Senac Londrina
+🎓 I am Graduated in Information Technology (IT) in Senac Londrina (2021 - 2024)
 <br>
 and
 <br>
-🎓 Studing Program Engineering in Unisenai Londrina
+🎓 Studing Program Engineering in Unisenai Londrina (2024 - 2028)
 
 I can work with:
 <br>
