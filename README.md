@@ -18,7 +18,7 @@ I am a Brazilian developer 🇧🇷 passionate about technology and continuous l
 
 I have experience working with the following technologies:
 
-<div align="left">
+<div align="center">
   <img loading="lazy" src="https://github.com/user-attachments/assets/aa5c54c1-3842-4f2f-b718-9e30cc0a7746" width="45" height="45" alt="Tech icon"/>
   <img loading="lazy" src="https://github.com/user-attachments/assets/938c9e43-ecfa-4ed3-a395-1a4a00e44b9d" width="45" height="45" alt="Tech icon"/>
   <img loading="lazy" src="https://github.com/user-attachments/assets/40d52d63-20f3-40a4-a34c-64eb1e48a1e9" width="45" height="45" alt="Tech icon"/>
