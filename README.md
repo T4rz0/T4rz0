@@ -10,8 +10,8 @@ I am a Brazilian developer 🇧🇷 focused on building high-quality software an
 
 * 🎓 **Graduated:** Information Technology (IT) at Senac Londrina (2021 - 2024).
 * 🎓 **Currently Studying:** Software Engineering at Unisenai Londrina (2024 - 2028).
-* 🌱 **Currently learning:** [Adicione algo que está estudando agora, ex: Cloud, Arquitetura de Software]
-* 💬 **Ask me about:** [Suas principais habilidades, ex: React, APIs, Banco de Dados]
+* 🌱 **Currently learning:** Upgrading my abilities in python
+* 💬 **Ask me about:** Databases, Data Science, AI, and everything about tecnology
 
 ---
 
@@ -50,10 +50,10 @@ I am a Brazilian developer 🇧🇷 focused on building high-quality software an
 ## 📫 Let's Connect!
 
 <div align="center">
-  <a href="mailto:COLOQUE_SEU_EMAIL_AQUI">
+  <a href="mailto:lucasdeaferreira14@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/COLOQUE_SEU_LINKEDIN_AQUI">
+  <a href="https://linkedin.com/in/Lucas_Ferreira>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
