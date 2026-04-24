@@ -1,9 +1,3 @@
-<style>
-  .Linguagens{
-display: flex;
-  }
-</style>
-
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hello!!+%F0%9F%91%8B+Welcome+to+my+profile!;I'm+Lucas+Ferreira+(T4rz0);Software+Engineering+Student" alt="Typing SVG" />
